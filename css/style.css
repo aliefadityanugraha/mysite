@@ -12,3 +12,6 @@ h1{
   border-color: aqua;
   border:5px;
 }
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
